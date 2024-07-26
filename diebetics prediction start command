@@ -1,0 +1,4 @@
+python3 -m venv venv
+source venv/bin/activate  # macOS/Linux
+# venv\Scripts\activate  # Windows
+python /Users/safwan/diebatics/app2.py
